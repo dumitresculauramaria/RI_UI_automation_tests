@@ -1,0 +1,7 @@
+selenium==4.0.0.b4
+webdriver-manager
+python-dotenv
+unittest-xml-reporting
+urllib3
+setuptools
+requests
